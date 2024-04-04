@@ -1,0 +1,15 @@
+{
+  "name": "azurewebapp",
+  "version": "1.0.0",
+  "description": "A Demo on how to deploy a Node.js Application using Azure Web Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
