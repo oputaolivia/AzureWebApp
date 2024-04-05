@@ -4,7 +4,7 @@
   "description": "A Demo on how to deploy a Node.js Application using Azure Web Service",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon index.js",
+    "test": "npm start",
     "build": "npm install",
     "start": "node index.js"
 
